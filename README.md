@@ -1,5 +1,5 @@
 # LLamaWikiChatbot
-This project is a local conversational AI chatbot that uses LlamaIndex integrated with Ollama to answer questions based on Wikipedia content.
+This project is a local conversational Retrieval-Augmented Generation (RAG) chatbot that uses LlamaIndex integrated with Ollama to answer questions based on Wikipedia content.
 
 ![image](https://github.com/user-attachments/assets/dc0fe891-c976-471e-89b4-2ddc3ec9271d)
 ![image](https://github.com/user-attachments/assets/01dc7191-2746-4439-b12d-6323f1cf45e9)
